@@ -15,10 +15,10 @@ The dataset (`employee_wellbeing.csv`) contains records of airline employees
 - **Target:** `WORK_LIFE_BALANCE_SCORE`
 
 - ## Project Structure
-- 
-├── wee_being_analysis.py # Exploratory Data Analysis & visualizations \n
+- \`\`\`
+├── wee_being_analysis.py # Exploratory Data Analysis & visualizations
 └── wellBeing_MLPrediction-2.py # Data preprocessing & ML prediction
-
+\`\`\`
 
 ## Methodology
 
