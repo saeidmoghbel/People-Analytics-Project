@@ -17,7 +17,7 @@ The dataset (`employee_wellbeing.csv`) contains records of airline employees
 ## Project Structure
 
 ├── wee_being_analysis.py # Exploratory Data Analysis & visualizations
-└── wellBeing_MLPrediction-2.py # Data preprocessing & ML prediction
+└── wellBeing_MLPrediction.py # Data preprocessing & ML prediction
 
 ## Methodology
 
